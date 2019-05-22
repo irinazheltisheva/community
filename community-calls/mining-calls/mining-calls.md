@@ -16,4 +16,4 @@ Our Mining Community Calls, or mining calls, provide a forum to provide mining-r
 
 ## Call Facilitators
 
-Since mid 2019, these mining community calls have been facilitated by full-time employees of Protocol Labs.
+Since mid 2019, these mining community calls have been facilitated by Michelle Brous ([@michellebrous](https://github.com/michellebrous)), who is a full-time employee of Protocol Labs.
